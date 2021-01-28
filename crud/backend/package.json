@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend with Json server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "author": "Arthur Santos",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
