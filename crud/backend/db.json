@@ -1,24 +1,29 @@
 {
- "products": [
-  {
-   "id": 1,
-   "name": "Caneta BIC Preta",
-   "price": 5.89
-  },
-  {
-   "id": 2,
-   "name": "Notebook MAC Pro",
-   "price": 5000.89
-  },
-  {
-   "id": 1,
-   "name": "Sansung S20",
-   "price": 1555.89
-  },
-  {
-   "id": 1,
-   "name": "Notebook Azus",
-   "price": 2229.00
-  }
- ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC Pro",
+      "price": 5000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": 1555.89
+    },
+    {
+      "name": "Notebook Azus",
+      "price": "2380.00",
+      "id": 4
+    },
+    {
+      "name": "Bicicleta",
+      "price": "554.99",
+      "id": 5
+    }
+  ]
 }
